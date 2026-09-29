@@ -1,0 +1,6 @@
+{
+  "name": "رحلة إنقاذ المعرفة",
+  "description": "لعبة مغامرات تعليمية شيقة لمادة الدراسات الاجتماعية للصف الثالث الإعدادي بالمنهج المصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
